@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mbmueller
 - 👀 I’m interested in learning something new.
-- 🌱 I’m currently studying for my final exam.
 - 📫 Contact me: marlon130403@gmail.com
 
 <!---
